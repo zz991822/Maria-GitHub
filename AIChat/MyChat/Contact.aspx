@@ -7,7 +7,7 @@
         6-26 Moss Blvd<br />
         Dundas, ON L9H 6W7<br />
         <abbr title="Phone">P:</abbr>
-        425.555.0100
+        905-923-0071
     </address>
 
     <address>
